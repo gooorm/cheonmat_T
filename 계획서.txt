@@ -15,4 +15,4 @@ REPORT
 : 에타에 불편함을 겪는 사람
 
 언어 
-: janggo 사용 -> phyton
+: python 의 django 프레임워크 
